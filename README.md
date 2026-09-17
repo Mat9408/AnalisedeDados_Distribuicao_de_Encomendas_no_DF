@@ -1,14 +1,10 @@
-# Distribuição de Encomendas no Distrito Federal
+# Distribuição de Encomendas no Distrito Federal pela empresa Loggi
 
 -------------------------------
 
 ## Sobre o projeto:
-### Este projeto analisa dados de entrega de encomendas no Distrito Federal. 
-
-pequeno sistema backend simulando uma conta bancária. Na aplicação o usuário pode inserir seu nome, o tipo de conta e realizar operações bancárias de depósito e saque, além de verificar a conta.
-### Caso o valor de saldo da conta bancária esteja negativado, o sistema informa que o usuário está utilizando o cheque especial.
-
-### O objetivo deste projeto foi a prática de Java sendo este meu primeiro projeto utilizando a linguagem. Os conceitos trabalhados foram a criação de variável, input de informações pelo usuário e estruturas condicionais.
+### Este projeto foi desenvolvido durante o curso de Análise de Dados da EBAC em 2022 e analisa dados de entrega de encomendas no Distrito Federal da empresa Loggi. Os dados foram coletados do repositório do Github Loggi Benchmark for Urban Deliveries (BUD).
+### O objetivo deste projeto foi buscar alternativas através dos dados para problemas típicos de logística como otimização de rotas de entrega, alocação de entregas nos veículos com capacidade limitada, etc. 
 
 -------------------------------
 
