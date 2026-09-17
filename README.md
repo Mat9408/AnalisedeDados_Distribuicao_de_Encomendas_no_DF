@@ -1,5 +1,5 @@
 # Distribuição de Encomendas no Distrito Federal pela empresa Loggi
--------------------------------
+
 ## Sobre o projeto:
 ### Este projeto foi desenvolvido durante o curso de Análise de Dados da EBAC em 2022 e analisa dados de entrega de encomendas no Distrito Federal da empresa Loggi. Os dados foram coletados do repositório do Github Loggi Benchmark for Urban Deliveries (BUD).
 ### O objetivo deste projeto foi buscar alternativas através dos dados para problemas típicos de logística como otimização de rotas de entrega, alocação de entregas nos veículos com capacidade limitada, etc. 
